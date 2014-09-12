@@ -43,28 +43,3 @@ So, if you will, bear with me talking about a solution that found a problem.
 
 ---
 
-_Structure from Motion_
-
----
-
-![](http://taswir.in/pb/images/20090602213814_motion.jpg)
-
----
-
-(another aside...)
-
----
-
-![](http://smathermather.files.wordpress.com/2014/08/seoul.png?w=1551&h=1056)
-
----
-
-![](https://smathermather.files.wordpress.com/2014/08/photo2shape.png)
-
----
-
-
-
-
-
-
