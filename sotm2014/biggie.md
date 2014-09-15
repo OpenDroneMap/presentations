@@ -303,3 +303,31 @@ http://smathermather.github.io/OpenDroneMap
 ![](http://smathermather.files.wordpress.com/2013/12/drone_scribbles.png?w=663&h=629)
 
 ---
+
+OpenDroneMap
+============
+
+Relevant links:
+
+Structure from Motion (SfM)
+* http://flightriot.com/post-processing-software/
+* http://wedidstuff.heavyimage.com/index.php/2013/07/12/open-source-photogrammetry-workflow/
+* http://www.lancaster.ac.uk/staff/jamesm/software/sfm_georef.htm
+* http://www.agisoft.ru/products/photoscan/professional/
+* http://www.agisoft.ru/products/photoscan/standard/
+* http://ccwu.me/vsfm/
+ 
+Deep Learning
+* http://vimeo.com/91460768
+* https://www.jetpac.com/deepbelief
+ 
+Small Unmanned Vehicles (sUAVs)
+* http://uaviators.org/
+* https://www.mapbox.com/blog/processing-drone-imagery/
+* http://conservationdrones.org/
+* http://dugn.org/
+
+Random porrly written summary:
+* http://smathermather.wordpress.com/2014/02/04/big-dmn-post-photogrammetrically-derived-point-clouds/
+
+---
