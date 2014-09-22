@@ -14,7 +14,7 @@ But, it's deeper than that. My problem is that I chase objects that don't yet ex
 
 ---
 
-![](http://dashburst.com/wp-content/uploads/2013/01/grumpy-confused-cat.jpg)
+![](https://duckduckgo.com/l/?kh=-1&uddg=http%3A%2F%2Fwww.catster.com%2Ffiles%2Freddit-grumpy-cat-2.jpg)
 
 ---
 
