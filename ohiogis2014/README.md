@@ -1,11 +1,12 @@
 I have a problem.
 
 ---
-I chases shiny objects
+
+![](http://i.chzbgr.com/completestore/2011/11/4/a6b289ea-a67b-424a-93bb-84accce1bbdb.gif)
 
 ---
 
-![](http://i.chzbgr.com/completestore/2011/11/4/a6b289ea-a67b-424a-93bb-84accce1bbdb.gif)
+I chases shiny objects
 
 ---
 
