@@ -1,3 +1,3 @@
 # Presentation:
 
-http://OpenDroneMap.github.io/presentations/dsm-conflate
+https://OpenDroneMap.github.io/presentations/dsm-conflate
