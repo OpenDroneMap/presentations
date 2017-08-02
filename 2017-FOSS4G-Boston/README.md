@@ -13,16 +13,16 @@ Stephen Mather, Cleveland Metroparks; Dakota Benjamin, Cleveland Metroparks; Tom
 1. Booting to Live CD (1 hour)
 1. Running ODM (1 hour)
 1. Flight planning (1 hour)
-  * Good practices for reconstruction
-  * Mission Planner
-  * Mobile apps
+    * Good practices for reconstruction
+    * Mission Planner
+    * Mobile apps
 1. Drone options (1 hour)
-  * Flight controllers
-  * Fixed wing options
-  * Quad options
+    * Flight controllers
+    * Fixed wing options
+    * Quad options
 1. Flight demonstrations
-  * Balloon
-  * Kite
+    * Balloon
+    * Kite
 
 ### Todos:
 * Bring drones, kite, balloon
