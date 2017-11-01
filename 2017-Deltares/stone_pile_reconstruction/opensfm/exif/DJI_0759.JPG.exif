@@ -1,0 +1,16 @@
+{
+    "width": 2400, 
+    "camera": "v2 dji fc300x 1800 2400 perspective 0.5555", 
+    "projection_type": "perspective", 
+    "orientation": 1, 
+    "focal_ratio": 0.5555555555555556, 
+    "make": "DJI", 
+    "gps": {
+        "latitude": 0.0, 
+        "altitude": 58.476, 
+        "longitude": 0.0
+    }, 
+    "model": "FC300X", 
+    "capture_time": 1507559918.0, 
+    "height": 1800
+}

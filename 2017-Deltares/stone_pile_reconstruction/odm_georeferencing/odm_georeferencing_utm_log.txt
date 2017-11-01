@@ -1,0 +1,4 @@
+imagesPath was set to: /code/images_resize/
+imageListFile was set to: /code/opensfm/list_r000.out
+outputCoordFile was set to: /code/odm_georeferencing/coords.txt
+logFile_ was set to: /code/odm_georeferencing/odm_georeferencing_utm_log.txt

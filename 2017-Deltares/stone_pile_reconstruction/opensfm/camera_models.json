@@ -1,0 +1,13 @@
+{
+    "v2 dji fc300x 1800 2400 perspective 0.5555": {
+        "focal_prior": 0.5555555555555556, 
+        "width": 2400, 
+        "k1": 0.0, 
+        "k2": 0.0, 
+        "k1_prior": 0.0, 
+        "k2_prior": 0.0, 
+        "projection_type": "perspective", 
+        "focal": 0.5555555555555556, 
+        "height": 1800
+    }
+}
