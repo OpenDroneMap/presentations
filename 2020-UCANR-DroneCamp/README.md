@@ -1,5 +1,4 @@
 # UCANR DroneCamp 2020
-=============
 
 Presentation and workshop materials from UCANR DroneCamp 2020.  Presented by Corey Snipes <corey@twomile.com>
 
