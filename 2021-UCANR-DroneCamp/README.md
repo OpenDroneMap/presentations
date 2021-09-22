@@ -2,6 +2,8 @@
 
 Started in 2016, the UCANR event is "a multi-campus and industry collaborative intensive short course that provides comprehensive training on the use of drones for mapping and data collection." https://dronecampca.org/ 
 
+Virtual event - July 26-30, 2021
+
 "Open Source Data Processing with OpenDroneMap" presented by Corey Snipes <corey@twomile.com>
 
 Files included:
